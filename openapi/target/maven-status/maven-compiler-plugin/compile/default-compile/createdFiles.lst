@@ -1,0 +1,9 @@
+com\vatIt\openapi\exception\ResourceNotFoundException.class
+com\vatIt\openapi\controller\TodosController.class
+com\vatIt\openapi\exception\ErrorDetails.class
+com\vatIt\openapi\exception\GlobalExceptionHandler.class
+com\vatIt\openapi\repository\TodosRepository.class
+com\vatIt\openapi\service\TodosServiceImpl.class
+com\vatIt\openapi\OpenapiApplication.class
+com\vatIt\openapi\service\TodosService.class
+com\vatIt\openapi\entity\Todos.class
